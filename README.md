@@ -29,4 +29,5 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro  
 - *Pindorama - EP Piloto - Curupira*  
 
-🔗 [Notion - PGA Podcast Gerado Por IA](https://www.notion.so/sinngjpeg/PGA-Podcast-Gerado-Por-IA-281f5b50c60780c68ca0e5f2e2e760a1?source=copy_link)
+🔗 [Notion - PGA Podcast Gerado Por IA](https://www.notion.so/sinngjpeg/PGA-Podcast-Gerado-Por-IA-281f5b50c60780c68ca0e5f2e2e760a1?source=copy_link)  
+🔊 [Ouça no SoundCloud](https://soundcloud.com/sinngjpeg/pindorama-ep-piloto-curupira?si=c4c62489f81a410aad166a7593a19b2c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
