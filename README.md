@@ -1,4 +1,4 @@
-# 🎙️ Prompts for Podcast Generate by IA
+# 🎙️ dio-podcast-prompts-ia
 
 ## 📌 Projeto Podcast Gerado por I.A.s
 ℹ️ **NOTE**: Este é o repositório desenvolvido durante um curso na DIO.  
